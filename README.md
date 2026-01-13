@@ -1,92 +1,91 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi there, I'm Yavuz!</h1>
-  <h3>🚀 Network Enthusiast | Linux Lover | Game Developer</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=kuguvegaa&label=Profile%20Views&color=blueviolet&style=flat-square" alt="kuguvegaa" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30">
+  <h1>Hi there, I'm Yavuz!</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Network+Enthusiast+(CCNA);Game+Developer+(Unity+%2F+Unreal);Linux+Lover;Designer" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=kuguvegaa&theme=tokyonight&no-frame=true&column=7" alt="kuguvegaa" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kuguvegaa&label=Profile%20views&color=blue&style=flat-square" alt="kuguvegaa" />
+  </p>
+
 </div>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      
 ### 👨‍💻 About Me
 
-> *"Learning never exhausts the mind."*
-
-* 🔭 Currently focused on **CCNA Certification** & Network Fundamentals.
-* 🐧 Passionate about **Linux Systems** and open-source ecosystem.
-* 🎮 Exploring game mechanics with **Unity & Unreal Engine**.
-* 🎨 Experienced in visual design with **Adobe Creative Suite**.
-* 📫 Contact: **kuguvega@linuxmail.org**
+- 🔭 I’m currently working on **CCNA Certification** & Network Administration.
+- 🌱 I’m currently learning **Advanced Linux & Docker**.
+- 🎨 I have a strong background in **Design tools** (Photoshop, Illustrator).
+- 🎮 I explore game development with **Unity & Unreal Engine**.
+- 📫 How to reach me: **kuguvega@linuxmail.org**
 
 ---
 
-### 🛠️ Technical Arsenal
-
-**🌐 Network & OS**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Cisco_CCNA-learning-blue?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-**💻 Development & Game Dev**
-<br>
-<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-
-**🎨 Design Tools**
-<br>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white" />
-
-    </td>
-    <td width="45%" valign="top">
-
-### 📈 GitHub Stats
-
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuguvegaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="stats" />
-</a>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuguvegaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="languages" />
-</a>
-<br/>
-<a href="https://github.com/streakstats/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuguvegaa&theme=tokyonight&hide_border=true" width="100%" alt="streak" />
-</a>
+
+  ### 🛠️ Languages & Tools
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 </div>
 
-    </td>
-  </tr>
-</table>
+---
+
+<div align="center">
+
+  ### 📈 GitHub Stats
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuguvegaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuguvegaa&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages" />
+  </div>
+
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuguvegaa&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+  ### 🤝 Connect with Me
 
-<a href="https://twitter.com/kuguvegaa" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/kuguvega" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.twitch.tv/kuguvega" target="blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-</a>
-<a href="https://www.youtube.com/@kuguvega" target="blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
+  <a href="https://twitter.com/kuguvegaa" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/kuguvega" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@kuguvega" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.twitch.tv/kuguvega" target="blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
 
-<br><br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="
+</div>
