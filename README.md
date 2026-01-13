@@ -75,16 +75,16 @@
 
   ### 🤝 Connect with Me
 
-  <a href="https://twitter.com/kuguvegaa" target="blank">
+  <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/kuguvega" target="blank">
+  <a href="https://instagram.com/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@kuguvega" target="blank">
+  <a href="https://www.youtube.com/" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.twitch.tv/kuguvega" target="blank">
+  <a href="https://www.twitch.tv/" target="blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 
