@@ -1,33 +1,91 @@
-<h1 align="center">Hi 👋, I'm Yavuz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuguvegaa&label=Profile%20views&color=f00000&style=flat" alt="kuguvegaa" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuguvegaa" alt="kuguvegaa" /></a> </p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30">
+  <h1>Hi there, I'm Yavuz!</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Network+Enthusiast+(CCNA);Game+Developer+(Unity+%2F+Unreal);Linux+Lover;Designer" alt="Typing SVG" />
+  </a>
 
-<p align="left"> <a href="https://twitter.com/kuguvegaa" target="blank"><img src="https://img.shields.io/twitter/follow/kuguvegaa?logo=twitter&style=for-the-badge" alt="kuguvegaa" /></a> </p>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=kuguvegaa&theme=tokyonight&no-frame=true&column=7" alt="kuguvegaa" />
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **CCNA**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kuguvegaa&label=Profile%20views&color=blue&style=flat-square" alt="kuguvegaa" />
+  </p>
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+</div>
 
-- 📝 I regularly write articles on [Soon](Soon)
+---
 
-- 📫 How to reach me **kuguvega@linuxmail.org**
+### 👨‍💻 About Me
 
-- 📄 Know about my experiences [Soon](Soon)
+- 🔭 I’m currently working on **CCNA Certification** & Network Administration.
+- 🌱 I’m currently learning **Advanced Linux & Docker**.
+- 🎨 I have a strong background in **Design tools** (Photoshop, Illustrator).
+- 🎮 I explore game development with **Unity & Unreal Engine**.
+- 📫 How to reach me: **kuguvega@linuxmail.org**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kuguvegaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuguvegaa" height="30" width="40" /></a>
-<a href="https://instagram.com/kuguvega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuguvega" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kuguvega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kuguvega" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/kuguvega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="kuguvega" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuguvegaa&show_icons=true&theme=dark&title_color=eb0a0a&text_color=f40101&bg_color=f7f3f3&hide_border=true&locale=en&layout=compact" alt="kuguvegaa" /></p>
+  ### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuguvegaa&show_icons=true&theme=dark&title_color=0af5e5&text_color=00f1f5&bg_color=faf5f5&hide_border=true&locale=en" alt="kuguvegaa" /></p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuguvegaa&" alt="kuguvegaa" /></p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 📈 GitHub Stats
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuguvegaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuguvegaa&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages" />
+  </div>
+
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuguvegaa&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🤝 Connect with Me
+
+  <a href="https://twitter.com/kuguvegaa" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/kuguvega" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@kuguvega" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.twitch.tv/kuguvega" target="blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
+
+</div>
